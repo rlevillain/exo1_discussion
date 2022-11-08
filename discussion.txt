@@ -1,2 +1,4 @@
 
 Mohamed : Bonjour Robin, tu vas bien ?
+Robin : Je vais bien et toi ? pas trop compliqué git ? 
+Mohamed : Oui je suis dispersé comme il n y a pas de cadre formateur.
